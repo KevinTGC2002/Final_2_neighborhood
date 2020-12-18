@@ -1,10 +1,15 @@
 [
     {
-    	"caption": "Untitled",
-    	"src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/mash.jpg"
+    	"caption": "Sunnyside",
+    	"src": "https://media.timeout.com/images/103386341/image.jpg"
   	},
     {
-    	"caption": "Butterfly",
-    	"src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/butterfly.png"
+    	"caption": "Beutifull Houses",
+    	"src": "https://wp-tid.zillowstatic.com/streeteasy/2/treelined-streets-sunnyside-290152.jpg"
+  	},
+    {
+    	"caption": "Train Stations",
+    	"src": "https://wp-tid.zillowstatic.com/streeteasy/2/7-train-connects-queens-to-midtown-bf90aa.jpg"
   	}
+
 ]

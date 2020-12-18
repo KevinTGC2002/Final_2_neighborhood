@@ -34,6 +34,7 @@ import { CartComponent } from "./cart/cart.component";
 import { ShippingComponent } from "./shipping/shipping.component";
 import { FngAccordionComponent } from "./fng-accordion/fng-accordion.component";
 import { GraphicsComponent } from "./graphics/graphics.component";
+import { SliderComponent } from './slider/slider.component';
 
 @NgModule({
   imports: [
@@ -61,7 +62,8 @@ import { GraphicsComponent } from "./graphics/graphics.component";
     CartComponent,
     ShippingComponent,
     FngAccordionComponent,
-    GraphicsComponent
+    GraphicsComponent,
+    SliderComponent
   ],
   bootstrap: [AppComponent],
   providers: [CartService]
